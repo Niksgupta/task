@@ -2,7 +2,6 @@ import React from 'react';
 
 import './App.css';
 
-
 import Footer from "./components/Footer";
 import Third from "./components/Third";
 import Second from "./components/Second";
