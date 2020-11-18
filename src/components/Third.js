@@ -2,6 +2,11 @@ import React from "react";
 import Card from 'react-bootstrap/Card';
 import CardDeck from 'react-bootstrap/CardDeck';
 
+import nnn from "./assest/nnn.jpg";
+import n from "./assest/n.jpg";
+import nn from "./assest/nn.jpg";
+import nnnnn from "./assest/nnnnn.jpg";
+
 
 
 function Third(){
@@ -13,7 +18,7 @@ function Third(){
     
 <CardDeck className="card-deck">
   <Card>
-    <Card.Img variant="top" src="https://www.resizepixel.com/Image/64fe8829/Preview/nnn.jpg?v=08866099-98df-4385-9e82-3ae282581161" />
+    <Card.Img variant="top" src={nnn} />
     <Card.Body>
       <Card.Title>CAR SERVICING</Card.Title>
       <Card.Text>
@@ -29,7 +34,7 @@ function Third(){
     </Card.Footer> */}
   </Card>
   <Card>
-    <Card.Img variant="top" src="https://www.resizepixel.com/Image/93653bbc/Preview/n.jpg?v=5f3e0c52-ae1c-43cd-adc9-cb507fc49b3c" />
+    <Card.Img variant="top" src={n} />
     <Card.Body>
       <Card.Title>AIR CONDIONERS</Card.Title>
       <Card.Text>
@@ -42,9 +47,9 @@ function Third(){
 
   </Card>
   <Card>
-    <Card.Img variant="top" src="https://www.resizepixel.com/Image/d7c6332c/Preview/nn.jpg?v=cfcd67f8-c204-4ef8-8bbd-7750d40410cb" />
+    <Card.Img variant="top" src={nn} />
     <Card.Body>
-      <Card.Title>REFRIGERETERS</Card.Title>
+      <Card.Title>REFRIGERATORS</Card.Title>
       <Card.Text>
       Solar Service is availabe
                 Best Customer Support
@@ -56,7 +61,7 @@ function Third(){
   </Card>
 
   <Card>
-    <Card.Img variant="top" src="https://www.resizepixel.com/Image/9fd5ecbe/Preview/nnnnn.jpg?v=c38e5778-9d80-496e-9d76-6be7e7275aa9" />
+    <Card.Img variant="top" src={nnnnn} />
     <Card.Body>
       <Card.Title>BIKES</Card.Title>
       <Card.Text>
