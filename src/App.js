@@ -19,13 +19,13 @@ function App() {
 
 <First />
 
-{/* SECOND DIV */}
-
-<Second />
-
 {/* THIRD DIV */}
 
 <Third />
+
+{/* SECOND DIV */}
+
+<Second />
 
 
 {/* FOOTER PART  */}

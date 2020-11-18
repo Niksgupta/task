@@ -13,67 +13,63 @@ function Third(){
     
 <CardDeck className="card-deck">
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://www.resizepixel.com/Image/64fe8829/Preview/nnn.jpg?v=08866099-98df-4385-9e82-3ae282581161" />
     <Card.Body>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>CAR SERVICING</Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This content is a little bit longer.
+      Solar Service is availabe
+                Best Customer Support
+            Easy pick up and drop
+                Best maintaining of cars.
+        
       </Card.Text>
     </Card.Body>
-    <Card.Footer>
+    {/* <Card.Footer>
       <small className="text-muted">Last updated 3 mins ago</small>
-    </Card.Footer>
+    </Card.Footer> */}
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://www.resizepixel.com/Image/93653bbc/Preview/n.jpg?v=5f3e0c52-ae1c-43cd-adc9-cb507fc49b3c" />
     <Card.Body>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>AIR CONDIONERS</Card.Title>
       <Card.Text>
-        This card has supporting text below as a natural lead-in to additional
-        content.{' '}
+      Solar Service is availabe
+                Best Customer Support
+            Easy pick up and drop
+                Best maintaining of cars.
       </Card.Text>
     </Card.Body>
 
   </Card>
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://www.resizepixel.com/Image/d7c6332c/Preview/nn.jpg?v=cfcd67f8-c204-4ef8-8bbd-7750d40410cb" />
     <Card.Body>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>REFRIGERETERS</Card.Title>
       <Card.Text>
-        This is a wider card with supporting text below as a natural lead-in to
-        additional content. This card has even longer content than the first to
-        show that equal height action.
-      </Card.Text>
-    </Card.Body>
-
-  </Card>
-
-  <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
-    <Card.Body>
-      <Card.Title>Card title</Card.Title>
-      <Card.Text>
-        This card has supporting text below as a natural lead-in to additional
-        content.{' '}
+      Solar Service is availabe
+                Best Customer Support
+            Easy pick up and drop
+                Best maintaining of cars.
       </Card.Text>
     </Card.Body>
 
   </Card>
 
   <Card>
-    <Card.Img variant="top" src="holder.js/100px160" />
+    <Card.Img variant="top" src="https://www.resizepixel.com/Image/9fd5ecbe/Preview/nnnnn.jpg?v=c38e5778-9d80-496e-9d76-6be7e7275aa9" />
     <Card.Body>
-      <Card.Title>Card title</Card.Title>
+      <Card.Title>BIKES</Card.Title>
       <Card.Text>
-        This card has supporting text below as a natural lead-in to additional
-        content.{' '}
+      Solar Service is availabe
+                Best Customer Support
+            Easy pick up and drop
+                Best maintaining of cars.
       </Card.Text>
     </Card.Body>
-    <Card.Footer>
-      <small className="text-muted">Last updated 3 mins ago</small>
-    </Card.Footer>
+
   </Card>
+
+
 </CardDeck>
 </div>
 </div>
