@@ -54,7 +54,7 @@ function Second (){
   </Card>
 
   <Card>
-    <Card.Img variant="top" src="https://www.resizepixel.com/Image/ae1990fa/Preview/bbbbb.jpg?v=8506be7b-aa59-493d-ac8a-9863e5e234660" />
+    <Card.Img variant="top" src="https://www.resizepixel.com/Image/776b7864/Preview/bbbbb.jpg?v=9512f5ea-651b-4a95-b9f0-9e272ce94211" />
     <Card.Body>
       <Card.Title>BUBBLE SHOOTING</Card.Title>
       <Card.Text>
